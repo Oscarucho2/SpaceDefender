@@ -1,0 +1,143 @@
+# depslib dependency file v1.0
+1604877187 source:c:\users\admin\documents\uaslp\3er semestre - ii\lenguajes de programacion\proyecto\space defender\space defender.c
+	<stdlib.h>
+	<stdio.h>
+	<graphics.h>
+	<winbgim.h>
+	<windows.h>
+	<string.h>
+
+1266058214 c:\users\admin\documents\codeblocks-ep\sdk\winbgim\include\graphics.h
+	<windows.h>
+	<limits.h>
+	<sstream>
+
+1266058214 c:\users\admin\documents\codeblocks-ep\sdk\winbgim\include\winbgim.h
+	<windows.h>
+	<limits.h>
+	<sstream>
+
+1605280523 source:c:\users\hp\documents\uaslp\3er semestre - ii\lenguajes de programacion\proyecto\space defender\space defender.c
+	<stdlib.h>
+	<stdio.h>
+	<graphics.h>
+	<winbgim.h>
+	<windows.h>
+	<string.h>
+
+1266119414 c:\users\hp\documents\codeblocks-ep\codeblocks-ep\sdk\winbgim\include\graphics.h
+	<windows.h>
+	<limits.h>
+	<sstream>
+
+1266119414 c:\users\hp\documents\codeblocks-ep\codeblocks-ep\sdk\winbgim\include\winbgim.h
+	<windows.h>
+	<limits.h>
+	<sstream>
+
+1605280524 source:c:\users\sanch\desktop\space defender\space defender\space defender.c
+	<stdlib.h>
+	<stdio.h>
+	<graphics.h>
+	<winbgim.h>
+	<windows.h>
+	<string.h>
+
+1266058214 c:\users\sanch\desktop\codeblocks-ep\codeblocks-ep\sdk\winbgim\include\graphics.h
+	<windows.h>
+	<limits.h>
+	<sstream>
+
+1266058214 c:\users\sanch\desktop\codeblocks-ep\codeblocks-ep\sdk\winbgim\include\winbgim.h
+	<windows.h>
+	<limits.h>
+	<sstream>
+
+1607492242 source:c:\users\sanch\documents\graficos en c\space defender\space defender\space defender.c
+	<stdlib.h>
+	<stdio.h>
+	<graphics.h>
+	<winbgim.h>
+	<windows.h>
+	<string.h>
+
+1607984496 source:c:\users\hp\documents\uaslp\3er semestre - ii\lenguajes de programacion\proyecto\space defender v2\space defender\space defender.c
+	<stdlib.h>
+	<stdio.h>
+	<graphics.h>
+	<winbgim.h>
+	<windows.h>
+	<string.h>
+
+1608007478 source:c:\users\sanch\desktop\space defender v3\space defender\space defender.c
+	<stdlib.h>
+	<stdio.h>
+	<graphics.h>
+	<winbgim.h>
+	<windows.h>
+	<string.h>
+
+1609710447 source:c:\users\sanch\documents\graficos en c\space defender v4\space defender\space defender.c
+	<stdlib.h>
+	<stdio.h>
+	<graphics.h>
+	<winbgim.h>
+	<windows.h>
+	<string.h>
+	<time.h>
+
+1609899922 source:c:\users\ricar\documents\uaslp\3er semestre - ii\lenguajes de programacion\proyecto\space defender last version\space defender v4\space defender\space defender.c
+	<stdlib.h>
+	<stdio.h>
+	<graphics.h>
+	<winbgim.h>
+	<windows.h>
+	<string.h>
+	<time.h>
+
+1266058214 c:\users\ricar\documents\codeblocks-ep\sdk\winbgim\include\graphics.h
+	<windows.h>
+	<limits.h>
+	<sstream>
+
+1266058214 c:\users\ricar\documents\codeblocks-ep\sdk\winbgim\include\winbgim.h
+	<windows.h>
+	<limits.h>
+	<sstream>
+
+1609917751 source:c:\users\sanch\desktop\space defender v8\space defender v8\space defender.c
+	<stdlib.h>
+	<stdio.h>
+	<graphics.h>
+	<winbgim.h>
+	<windows.h>
+	<string.h>
+	<time.h>
+
+1609987759 source:c:\users\ricar\documents\uaslp\3er semestre - ii\lenguajes de programacion\proyecto\space defender v8\space defender v8\space defender.c
+	<stdlib.h>
+	<stdio.h>
+	<graphics.h>
+	<winbgim.h>
+	<windows.h>
+	<string.h>
+	<time.h>
+
+1610068837 source:c:\users\ricar\documents\uaslp\3er semestre - ii\lenguajes de programacion\proyecto\space defender v8\space defender v10\space defender.c
+	<stdlib.h>
+	<stdio.h>
+	<graphics.h>
+	<winbgim.h>
+	<windows.h>
+	<string.h>
+	<time.h>
+
+1683183039 source:c:\users\sanch\desktop\space defender version final\space defender version final\space defender.c
+	<stdlib.h>
+	<stdio.h>
+	<graphics.h>
+	<winbgim.h>
+	<windows.h>
+	<string.h>
+	<time.h>
+
